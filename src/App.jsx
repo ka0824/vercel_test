@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
-  return <div className="App">vercel 배포 테스트 중 입니다.</div>;
+  return <div className="App">vercel 배포 테스트 중 입니다2.</div>;
 }
 
 export default App;
